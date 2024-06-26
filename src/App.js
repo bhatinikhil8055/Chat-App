@@ -20,7 +20,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/home">
+        <Route path="/">
           <Route
             index
             element={
