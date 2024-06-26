@@ -4,12 +4,12 @@ import {getStorage} from "firebase/storage";
 import {getFirestore} from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAA_pv--Ao6fLD7zCTigx2fvow6bKJK004",
-  authDomain: "webchat2001.firebaseapp.com",
-  projectId: "webchat2001",
-  storageBucket: "webchat2001.appspot.com",
-  messagingSenderId: "368763423332",
-  appId: "1:368763423332:web:bc0895fe4fc7b2af736d71"
+  apiKey: "AIzaSyBWVuGXIu17amuewJ2-XJS1ixsFde5tmSI",
+  authDomain: "webchat-f2208.firebaseapp.com",
+  projectId: "webchat-f2208",
+  storageBucket: "webchat-f2208.appspot.com",
+  messagingSenderId: "921254029272",
+  appId: "1:921254029272:web:d395dd0ceced670d05b4ad"
 };
 
 // Initialize Firebase
